@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">licht app</string>
+    <string name="start">start</string>
+    <string name="_00_00">00:00</string>
+    <string name="reset">reset</string>
+    <string name="licht_app">LICHT APP</string>
+    <string name="stop_watch">STOP WATCH</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="play_image">play image</string>
+    <string name="signal_image">signal image</string>
+    <string name="des_image">des image</string>
+    <string name="minutes">Minutes</string>
+    <string name="set">set</string>
+    <string name="stopwatch_image">stopwatch image</string>
+    <string name="duration_time">DURATION TIME</string>
+    <string name="end_time">END TIME</string>
+    <string name="endtime_image">endtime_image</string>
+    <string name="game_image">game_image</string>
+    <string name="game">GAME</string>
+    <string name="quiz_image">quiz_image</string>
+    <string name="quiz">QUIZ</string>
+    <string name="exit_image">exit_image</string>
+    <string name="exit">EXIT</string>
+    <string name="duration_image">duration_image</string>
+</resources>
