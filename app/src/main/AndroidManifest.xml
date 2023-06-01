@@ -12,6 +12,9 @@
         android:theme="@style/Theme.LichtApp"
         tools:targetApi="31">
         <activity
+            android:name=".game1"
+            android:exported="false" />
+        <activity
             android:name=".endtime"
             android:exported="false" />
         <activity
